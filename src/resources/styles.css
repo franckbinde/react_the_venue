@@ -32,7 +32,7 @@ body {
   margin: 0 auto;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 880px) {
   .center_wrapper {
     width: 100vw;
   }
@@ -87,7 +87,7 @@ footer .footer_copyright {
   background-size: cover !important;
   filter: brightness(50%);
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 880px) {
   .carrousel_wrapper {
     height: auto;
     overflow: hidden;
@@ -120,7 +120,7 @@ footer .footer_copyright {
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 880px) {
   .artist_name {
     width: 80vw;
   }
@@ -169,7 +169,7 @@ footer .footer_copyright {
   padding-left: 7px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 880px) {
   .countdown_wrapper .countdown_top {
     padding: 1rem calc((100vw - 1300px) / 2);
     font-size: 1rem;
@@ -193,7 +193,7 @@ footer .footer_copyright {
   padding: 170px 0px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 880px) {
   .vn_wrapper {
     display: flex;
     flex-direction: column;
@@ -215,7 +215,7 @@ footer .footer_copyright {
   padding: 5px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 880px) {
   .vn_item .vn_outer {
     width: 100vw;
     padding: 1rem calc((100vw - 1300px) / 2);
@@ -229,7 +229,7 @@ footer .footer_copyright {
   transition: all 500ms ease;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 880px) {
   .vn_item .vn_inner {
     padding: 1rem calc((100vw - 1300px) / 2);
   }
@@ -250,7 +250,7 @@ footer .footer_copyright {
   left: 100px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 880px) {
   .vn_item .vn_icon_square {
     width: 2vw;
     left: 0;
@@ -267,7 +267,7 @@ footer .footer_copyright {
   left: 124px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 880px) {
   .vn_item .vn_icon {
     width: 50vw;
     left: 1rem;
@@ -298,7 +298,7 @@ footer .footer_copyright {
   font-size: 52px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 880px) {
   .highlight_wrapper h2 {
     font-size: 3rem;
     text-align: center;
@@ -324,7 +324,7 @@ footer .footer_copyright {
   padding: 70px 0px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 880px) {
   .discount_wrapper {
     display: flex;
     flex-direction: column;
@@ -336,7 +336,7 @@ footer .footer_copyright {
   padding-right: 100px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 880px) {
   .discount_wrapper .discount_percentage {
     padding-right: 1rem;
   }
@@ -399,7 +399,7 @@ footer .footer_copyright {
   margin: 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 880px) {
   .pricing_wrapper {
     display: flex;
     flex-direction: column;
@@ -428,7 +428,7 @@ footer .footer_copyright {
   padding: 50px 20px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 880px) {
   .pricing_wrapper .pricing_inner_wrapper {
     padding: 1rem;
   }
@@ -454,7 +454,7 @@ footer .footer_copyright {
   font-weight: 300;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 880px) {
   .pricing_inner_wrapper .pricing_description {
     font-size: 2rem;
     display: flex;
