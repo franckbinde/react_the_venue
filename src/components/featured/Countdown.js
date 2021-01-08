@@ -3,7 +3,7 @@ import Slide from "react-reveal/Slide";
 
 const Countdown = () => {
   const [state, setState] = useState({
-    deadline: "Dec, 16, 2020",
+    deadline: "Dec, 31, 2021",
     days: "0",
     hours: "0",
     minutes: "0",
